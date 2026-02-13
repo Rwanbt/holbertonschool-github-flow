@@ -1,4 +1,4 @@
-## Unreleased
+## v1.1.0
 
 - Added detailed content to the introduction and history documentation files
 - Resolved a merge conflict in the collaboration document to ensure team alignment.
